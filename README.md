@@ -1,2 +1,2 @@
-# collage-Programs
+# college-Programs
 List of programs
